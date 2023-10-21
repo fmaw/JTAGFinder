@@ -1,5 +1,5 @@
-[submodule "00_document/wiki"]
-	path = 00_document/wiki
+[submodule "00_document/00_wiki"]
+	path = 00_document/00_wiki
 	url = https://github.com/grandideastudio/jtagulator.wiki.git
 [submodule "01_hardware/00_JTAGFinder"]
 	path = 01_hardware/00_JTAGFinder
