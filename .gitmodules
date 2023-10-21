@@ -1,0 +1,3 @@
+[submodule "00_document/wiki"]
+	path = 00_document/wiki
+	url = https://github.com/grandideastudio/jtagulator.wiki.git
